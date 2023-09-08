@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
-/* betty style doc for function main goes there */
+/**
+ * main - program that prints functions 
+ * Return: 0 (success)
+ */
 int main(void)
 {
 	int n;
