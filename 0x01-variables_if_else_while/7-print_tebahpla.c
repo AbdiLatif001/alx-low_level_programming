@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *Description: 'z to a'
- *Result: always 0 (success)
+ *Description: 'print alphabet in reverse order in small letters'
+ *Result: Always 0 (success)
  */
 int main(void)
 {
