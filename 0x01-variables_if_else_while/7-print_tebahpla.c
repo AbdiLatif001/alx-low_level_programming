@@ -2,7 +2,7 @@
 /**
  *main - Entry point
  *Description: 'z to a'
- *Result: alwas 0 (success)
+ *Result: always 0 (success)
  */
 int main(void)
 {
