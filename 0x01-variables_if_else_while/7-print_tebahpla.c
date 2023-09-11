@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *Description: 'print alphabet in reverse order in small letters'
- *Result: Always 0 (success)
+ *Return: always 0
  */
 int main(void)
 {
